@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Welcome to My Website
+# Welcome!
 
 ### More to come soon...
 
