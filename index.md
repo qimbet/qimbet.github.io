@@ -6,4 +6,4 @@ layout: home
 
 ### More to come soon...
 
-Website still under construction. Updates rolling out!
+Website still under construction. Updates coming as they can!
