@@ -1,5 +1,5 @@
 ---
-title: Q.
+title: Qimbet!
 layout: home
 ---
 
